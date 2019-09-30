@@ -6,12 +6,15 @@ public class HelloWorld {
         System.out.println("hello world"); //sout
         int a = test();
         System.out.println(a);
+        System.out.println("更新一下");
     }
 
     public static int test(){
         System.out.println("被调用了");
         int a = 1;int b = 2;
         return a+b;
+
     }
+
 
 }
