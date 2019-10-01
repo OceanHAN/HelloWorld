@@ -6,7 +6,7 @@ public class HelloWorld {
         System.out.println("hello world"); //sout
         int a = test();
         System.out.println(a);
-        System.out.println("更新一下");
+        System.out.println("测试");
     }
 
     public static int test(){
