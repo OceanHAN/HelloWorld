@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println(a);
         System.out.println("测试");
         System.out.println("1111111111111");
+        System.out.println("2222");
     }
 
     public static int test(){
