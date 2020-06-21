@@ -6,8 +6,8 @@ public class HelloWorld {
         System.out.println("2020");
     }
 
-    public static int test(){
-       string test;
+    public static void test(){
+        System.out.println("我是本地的");
     }
 
 
