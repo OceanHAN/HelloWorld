@@ -7,7 +7,7 @@ public class HelloWorld {
     }
 
     public static void test(){
-        System.out.println("我是本地的");
+        System.out.println("我是云端的");
     }
 
 
