@@ -7,10 +7,7 @@ public class HelloWorld {
     }
 
     public static int test(){
-        System.out.println("被调用了");
-        int a = 1;int b = 2;
-        return a+b;
-
+       string test;
     }
 
 
